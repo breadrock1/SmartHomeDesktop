@@ -3,7 +3,24 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/smart_home_client/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/smart_home_client/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/smart_home_server/smart_home_client/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/smart_home_server/smart_home_client/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/smart_home_server/smart_home_server/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/smart_home_server/smart_home_server/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/smart_home_server/smart_home_socket/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/server/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/smart_home_server/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/socket/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tcp_client/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tcp_client/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/src/server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/smart_home_server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/socket/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/tcp_client/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
